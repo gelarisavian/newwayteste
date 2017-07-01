@@ -1,2 +1,2 @@
 # newwayteste
-teste para empresa New Way
+teste para empresa 
